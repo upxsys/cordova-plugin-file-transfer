@@ -40,7 +40,7 @@
     "cordova-browser"
   ],
   "peerDependencies": {
-    "cordova-plugin-file": ">=2.0.0"
+    "cordova-plugin-file": "git://github.com/apache/cordova-plugin-file#r2.1.0"
   },
   "author": "Apache Software Foundation",
   "license": "Apache 2.0"
